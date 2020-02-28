@@ -5,6 +5,13 @@ hello
 
 hi....
 
+<<<<<<< HEAD
 how are u?
 
 darling
+=======
+aaa
+howwww
+
+jjj
+>>>>>>> e5568d255cff8c56646cd82903cf010f0d5637f3
